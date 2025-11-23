@@ -1,7 +1,5 @@
 # 1st-practice
-Creating this to practice how to interact with git and github.
-
-I coppy the url and paste in the trminal.
-I am using git bash for this.
-Opened in vs code
-Making changes in readme.md file
+This is my first work with git and github
+I am trying to learn them
+That's why I am doing this foolish work
+For second time I am editing readme.md file
